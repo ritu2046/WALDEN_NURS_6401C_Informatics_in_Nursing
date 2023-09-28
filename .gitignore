@@ -1,0 +1,8 @@
+# This file contains the files that are ignored while commiting in git repository
+
+*.java
+*.py
+*.DS_Store
+
+
+
